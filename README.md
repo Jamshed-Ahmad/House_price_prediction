@@ -32,7 +32,14 @@ Random Forest | 89.6% ✅ (Best Model)
 🔹 Random Forest Regressor achieved the highest accuracy (89.6%), making it the optimal choice for predictions. <br>
 
 # 🚀 How to Run the Project <br>
-[1️⃣ Clone the Repository ](https://github.com/your-username/mumbai-house-price-prediction.git) <br>
+### Running the Jupyter Notebook
+1. Open `Mumbai_Housing_price_project.ipynb` in Jupyter Notebook.
+2. Run all cells to:
+   - Perform data preprocessing and EDA.
+   - Train and evaluate different regression models.
+   - Compare accuracy metrics.
+
+1️⃣ Clone the Repository `https://github.com/your-username/mumbai-house-price-prediction.git` <br>
 cd mumbai-house-price-prediction 
 [ 2️⃣ Install Dependencies](pip install -r requirements.txt) 
 
