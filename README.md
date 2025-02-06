@@ -31,3 +31,16 @@ Random Forest | 89.6% ✅ (Best Model)
 
 🔹 Random Forest Regressor achieved the highest accuracy (89.6%), making it the optimal choice for predictions. <br>
 
+# 🚀 How to Run the Project
+1️⃣ Clone the Repository
+git clone https://github.com/your-username/mumbai-house-price-prediction.git
+cd mumbai-house-price-prediction
+2️⃣ Install Dependencies
+pip install -r requirements.txt
+3️⃣ Run the Gradio App
+python app.py
+or, if using Jupyter Notebook:
+!gradio app.py
+
+The Gradio interface will launch in your browser, allowing you to predict house prices dynamically.
+
