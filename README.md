@@ -14,9 +14,8 @@ This project aims to predict house prices in Mumbai using machine learning techn
 
 # 📂 Dataset & Features <br>
 The dataset contains various attributes affecting house prices, including: <br>
-| Header 1 | Header 2 |
-|----------|----------|
-Feature Name | Description <br>
+| Feature Name | Description |
+|--------------|-------------| 
 Location | The area where the house is situated 🏙 <br>
 BHK | Number of Bedrooms, Hall, Kitchen 🛏 <br>
 Size(Sq.Ft.) | Total area of the house 📐 <br>
@@ -24,7 +23,8 @@ Bathroom | Number of bathrooms 🚿 <br>
 Price | Target variable – House price in ₹ 💰 <br>
 
 # 📊 Model Performance & Accuracy <br>
-Model | Accuracy (R² Score) <br>
+| Model | Accuracy (R² Score) | <br>
+|-------|---------------------|
 Linear Regression | 67.5% <br>
 Decision Tree | 78.3% <br>
 Random Forest | 89.6% ✅ (Best Model) <br>
