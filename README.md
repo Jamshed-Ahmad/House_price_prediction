@@ -27,6 +27,7 @@ Price | Target variable – House price in ₹ 💰 <br>
 |-------|---------------------|
 Linear Regression | 67.5% <br>
 Decision Tree | 78.3% <br>
-Random Forest | 89.6% ✅ (Best Model) <br>
+Random Forest | 89.6% ✅ (Best Model) 
+
 🔹 Random Forest Regressor achieved the highest accuracy (89.6%), making it the optimal choice for predictions. <br>
 
