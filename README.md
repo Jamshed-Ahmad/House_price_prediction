@@ -43,9 +43,24 @@ Random Forest | 89.6% ✅ (Best Model)
  pip install `-r requirements.txt`. 
 
 ### 3️⃣ Run the Gradio App 
-`python app.py`.
+`python app.py`. <br>
 or, if using Jupyter Notebook:
 `!gradio app.py`. 
 
-The Gradio interface will launch in your browser, allowing you to predict house prices dynamically. <br>
+The Gradio interface will launch in your browser, allowing you to predict house prices dynamically. 
+
+###🌟 Future Enhancements
+🔹 Improve accuracy with advanced ensemble models 🏆.
+🔹 Integrate real-time market trends 📈.
+🔹 Deploy as a full-fledged web application 🌐.
+
+### 📜 License
+This project is open-source and free to use under the MIT License.
+
+### 💬 Feedback & Contributions are welcome! Feel free to fork the repo, raise issues, or submit pull requests. 🚀
+
+##📩 Connect with Me
+If you found this project helpful, let’s connect on [LinkedIn](https://www.linkedin.com/in/jamshed-ahmad-1a8216278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)! 😊
+
+
 
