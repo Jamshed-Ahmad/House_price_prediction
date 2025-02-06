@@ -23,7 +23,7 @@ Bathroom | Number of bathrooms 🚿 <br>
 Price | Target variable – House price in ₹ 💰 <br>
 
 # 📊 Model Performance & Accuracy <br>
-| Model | Accuracy (R² Score) | <br>
+| Model | Accuracy (R² Score) |
 |-------|---------------------|
 Linear Regression | 67.5% <br>
 Decision Tree | 78.3% <br>
