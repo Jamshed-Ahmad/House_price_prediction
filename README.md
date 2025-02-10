@@ -44,7 +44,7 @@ Random Forest | 89.6% ✅ (Best Model)
 
 ### 3️⃣ Run the Gradio App 
 `python app.py`. <br>
-or, if using Jupyter Notebook:
+or, if using Jupyter Notebook: <br>
 `!gradio app.py`. 
 
 The Gradio interface will launch in your browser, allowing you to predict house prices dynamically. 
